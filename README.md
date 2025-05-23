@@ -9,4 +9,4 @@
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaulAguilarLavado&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulAguilarLavado&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulAguilarLavado&layout=compact)
